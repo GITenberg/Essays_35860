@@ -1,0 +1,34 @@
+_repo: Essays_35860
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Arthur Christopher
+    aliases:
+    - Carr, Christopher
+    - Benson, A. C. (Arthur Christopher)
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '1486'
+    url: http://www.gutenberg.org/2009/agents/1486
+    wikipedia: http://en.wikipedia.org/wiki/A._C._Benson
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35860'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: The ever-memorable John Hales -- A minute philosopher -- Henry More,
+  the Platonist -- Andrew Marvell -- Vincent Bourne -- Thomas Gray -- William Blake
+  -- The poetry of Keble -- Elizabeth Barrett Browning -- The late master of Trinity
+  -- Henry Bradshaw -- Christina Rossetti -- The poetry of Edmund Gosse -- Epilogue.
+title: Essays
+url: http://www.gutenberg.org/ebooks/35860
